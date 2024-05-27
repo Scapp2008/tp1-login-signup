@@ -1,0 +1,20 @@
+
+
+.all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 500px;
+    padding-top:50px;
+    gap: 20px;
+}
+.b{
+    background-color: aqua;
+    padding:2px;
+}
+.input{
+gap:15px
+    
+}
